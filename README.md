@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Welcome%20to%20my%20Github%20Handle!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<h2 align="center"> Hi 👋, I'm Ashish </h2>
-<p align="center"><em>Final Year CS @ Delhi Technological University | ML Intern @ ISRO | LeetCode Knight</em></p>
+<h2 align="center"> Hi 👋, I'm Ashish, a AI Full-Stack Engineer  </h2>
+<p align="center"><em> B.Tech CSE @ Delhi Technological University | Former ML Intern @ ISRO | LeetCode Knight</em></p>
 
 <div align="center">
   <a href="https://github.com/ashishSoni1234">
@@ -18,10 +18,10 @@
     <tr>
       <td width="55%">
         <ul>
-          <li>🔭 I’m currently working on <strong>AI/ML Systems & Full Stack Apps</strong></li>
-          <li>👯 All of my projects are available at <a href="https://github.com/ashishSoni1234">github.com/ashishSoni1234</a></li>
-          <li>💬 Ask me anything related to <strong>Python, React, Machine Learning, Web Dev</strong></li>
-          <li>📫 Contact: <a href="https://linkedin.com/in/ashish-soni-b09984312">LinkedIn</a> | soniashish37066@gmail.com</li>
+          <li>I’m currently working on <strong>AI/ML Systems & Full Stack Apps</strong></li>
+          <li> All of my projects are available at <a href="https://github.com/ashishSoni1234">github.com/ashishSoni1234</a></li>
+          <li>💬 Ask me anything related to automation  using AI </li>
+          <li> Contact: <a href="https://linkedin.com/in/ashish-soni-b09984312">LinkedIn</a> | soniashish37066@gmail.com</li>
           <li>⚡ Fun fact: <strong>LeetCode Knight (Top 2.74% globally, 1200+ problems)</strong></li>
         </ul>
       </td>
