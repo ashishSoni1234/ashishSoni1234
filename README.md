@@ -37,7 +37,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### 🏆 Featured Projects
-- **[Cipherguard](https://cipherguard-rosy.vercel.app/)**: MERN stack Chrome extension with real-time content detection (93% accuracy), LLM-based toxicity pipeline, 4000+ domain blocking.
-- **[AI Medicine Copilot](https://huggingface.co/spaces/ashish37066/AI-Medicine-Copilot)**: RAG-based AI system, 11K+ drug vector DB, 160K+ reviews processed, Google Gemini LLM.
-- **ISRO ML Internship**: Spacecraft pose estimation using deep learning SPN, ER: 3.97°, ET: 2.26m.
