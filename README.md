@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **LeetCode Knight (Top 2.74% globally, 1200+ problems)**
 
-<p><img align="left" src="https://github-readme-stats-lime-xi-12.vercel.app/api/top-langs?username=ashishSoni1234&show_icons=true&locale=en&layout=compact" alt="ashishSoni1234" /></p>
+<p><img align="left" src="https://github-readme-stats-lime-xi-12.vercel.app/api/top-langs?username=ashishSoni1234&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="ashishSoni1234" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-lime-xi-12.vercel.app/api?username=ashishSoni1234&show_icons=true&locale=en&include_all_commits=true" alt="ashishSoni1234" /></p>
 
