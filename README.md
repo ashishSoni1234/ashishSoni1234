@@ -70,15 +70,4 @@
 
 <br/>
 
-<div align="center">
-  <h3>🏆 Featured Projects</h3>
-  <table align="center">
-    <tr>
-      <td><b><a href="https://cipherguard-rosy.vercel.app/">Cipherguard</a></b><br/>MERN stack Chrome extension with real-time content detection (93% accuracy), LLM-based toxicity pipeline, 4000+ domain blocking.</td>
-      <td><b><a href="https://huggingface.co/spaces/ashish37066/AI-Medicine-Copilot">AI Medicine Copilot</a></b><br/>RAG-based AI system, 11K+ drug vector DB, 160K+ reviews processed, Google Gemini LLM.</td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><b>ISRO ML Internship</b><br/>Spacecraft pose estimation using deep learning SPN, ER: 3.97°, ET: 2.26m.</td>
-    </tr>
-  </table>
-</div>
+
